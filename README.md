@@ -1,0 +1,1 @@
+# Automated-Face-Hand-Segmentation-Using-SAM2-API
