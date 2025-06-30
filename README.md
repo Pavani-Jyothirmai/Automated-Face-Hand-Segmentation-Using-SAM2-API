@@ -95,7 +95,7 @@ A clean Streamlit UI allows:
 
 Here's a preview of the interactive UI built with Streamlit:
 
-![Streamlit UI](Streamlit_UI.png)
+![Streamlit UI](Streamlit_UI.jpg)
 
 
 ## 📦 Requirements
