@@ -138,11 +138,6 @@ python detection_segmentation.py
 
 ---
 
-## 👩‍💻 Author
-
-Koilada Pavani Jyothirmai
-BTech in CSE (AI & ML)
-VIT-AP University
 
 ---
 
