@@ -91,6 +91,13 @@ A clean Streamlit UI allows:
 
 ---
 
+### 💻 Streamlit User Interface
+
+Here's a preview of the interactive UI built with Streamlit:
+
+![Streamlit UI](Streamlit_UI.png)
+
+
 ## 📦 Requirements
 
 Dependencies are listed in `requirements.txt`:
