@@ -8,12 +8,14 @@ This project performs **automated detection and segmentation of human faces and 
 
 ```
 
-├── detection\_segmentation.py     # Core detection & segmentation logic
+├── detection_segmentation.py      # Core detection & segmentation logic
 ├── app.py                         # Streamlit web app
+├── pipeline_notebook.ipynb        # Colab file
 ├── Streamlit_UI.png               # Screenshot of the Streamlit app
 ├── requirements.txt               # Required dependencies
 ├── input\_image.jpg               # Sample input image
 ├── output\_image.jpg              # Sample output after segmentation
+
 
 ````
 
